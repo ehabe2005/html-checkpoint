@@ -1,7 +1,10 @@
 .header {
 
-background-color: seagreen;
+background-color:burlywood;
 }
 *{
     color: black;
+}
+.footer{
+    background-color:bisque;
 }
